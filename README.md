@@ -12,6 +12,6 @@
 
 ## Files
 
-reddit_etl.py: This file contains the Python ETL script for extracting, transforming, and loading data from Reddit API to AWS S3 using s3fs.
+UberDataPipeline.ipynb: This file contains the Python ETL script for extracting, transforming, and loading data from Uber using Mage.
 
-reddit_dag.py: This file contains the DAG and task definitions for Airflow.
+uber_data.csv: This file contains the raw data used.

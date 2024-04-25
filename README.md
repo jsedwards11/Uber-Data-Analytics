@@ -1,4 +1,4 @@
-# Creating an ETL Pipeline Using Google Cloud Platform and BigQuery, Mage, and Looker.
+# Creating an ETL Pipeline Using Google Cloud Platform and BigQuery, Python, Mage, and Looker.
 
 ## Architecture Diagram
 
